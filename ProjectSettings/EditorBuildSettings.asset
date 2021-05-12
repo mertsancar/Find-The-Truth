@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainWindows/Desktop.unity
+    guid: 9a4f95599d6624547b6f1605636eeb22
+  - enabled: 1
+    path: Assets/Scenes/MainWindows/DoNotTouch.unity
+    guid: 89626c77cb0fd6d41a98ce75c2f768b1
+  - enabled: 1
+    path: Assets/Scenes/MainWindows/Trash.unity
+    guid: 627c6e26a5546c34a85ff92b1105f43c
+  - enabled: 1
+    path: Assets/Scenes/MainWindows/Wick.unity
+    guid: 92840ea4987d1ae449b41092a092b1bf
+  - enabled: 1
+    path: Assets/Scenes/MainWindows/DeepForum.unity
+    guid: 30aee429aa468fa41a2ece8724b97371
+  - enabled: 1
+    path: Assets/Scenes/MainWindows/AllKey.unity
+    guid: 1eaa60d6e60cade44ab1b9f52c1970ac
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: f24f65da505231d4ebf0912f2d8608ae
+  m_configObjects: {}
